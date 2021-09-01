@@ -16,4 +16,3 @@ O robô Paragon usa como estratégia o rompimento de suportes e resistencias tra
 ## Como configurar
 
 ## Exemplo 
-
