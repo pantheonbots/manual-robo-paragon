@@ -3,3 +3,33 @@
   weight = 1
   identifier = "introducao"
   url = "/docs/introducao/"
+
+[[docs]]
+  name = "Configurações"
+  weight = 2
+  identifier = "configuracoes"
+  url = "/docs/configuracoes/"
+
+[[docs]]
+  name = "Horários"
+  weight = 3
+  identifier = "horarios"
+  url = "/docs/horarios"
+
+[[docs]]
+  name = "Meta Diária"
+  weight = 4
+  identifier = "meta"
+  url = "/docs/meta/diaria"
+
+[[docs]]
+  name = "Segurança"
+  weight = 5
+  identifier = "seguranca"
+  url = "/docs/seguranca"
+
+[[docs]]
+  name = "Configurações Visuais"
+  weight = 6
+  identifier = "configuracoes_visuais"
+  url = "/docs/configuracoes/visuais"
