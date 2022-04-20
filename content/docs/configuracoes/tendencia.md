@@ -17,4 +17,4 @@ Você deverá informar qual o tipo de cálculo de tendência o Paragon deverá s
 
 #### Se Cálculo Manual
 
-- **Direção da tendência:** Sete manualmente a tendência como "de alta" ou "de baixa"
+- **Direção da tendência:** Configura manualmente a tendência como "de alta" ou "de baixa"
