@@ -11,10 +11,9 @@ weight: 14
 toc: true
 ---
 
-Você deverá informar qual o tipo de cálculo de tendência o Paragon deverá seguir no primeiro trade. O robô suporta cálculo automatico, ou manual
+- **Realiza 50% no break even:** Ao atingir o ponto de break even, realiza 50% da sua posição, se a quantidade de contratos permitir
 
-- **Cálculo da tendência:** A opção <u>Automática (GAP)</u> detecta se há um GAP na abertura para cima ou para baixo, e usa essa informação como tendência. A opção <u>Automática (regressão linear)</u> faz um calculo de regressão linear e tende a ser mais assertivo do que o GAP. A opção <u>Manual</u> é auto explicativa
 
-#### Se Cálculo Manual
+- **Take Profit em tamanho de canal:** Configura o tamanho do seu take profit em "canal". O padrão é 2x o canal configurado.
 
-- **Direção da tendência:** Sete manualmente a tendência como "de alta" ou "de baixa"
+- **Stop Loss em tamanho de canal:** Configura o tamanho do seu take profit em "canal". O padrão é 2.25x o canal configurado.
