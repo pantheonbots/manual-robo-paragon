@@ -23,4 +23,4 @@ A configuração do setup começa por aqui. Nesta parte você define qual é a b
 
 - **Filtrar entradas com diferença acima X pontos (0 não usar):** No início do pregão, se houver uma distância maior do que a configurada, esta entrada será ignorada. Útil somente no início do pregão.
 
-- **Habilita re-entradas no 50% do canal:** -------
+- **Habilita re-entradas no 50% do canal:** Habilita re-entrada no 50% do canal (técnica de costurada)
